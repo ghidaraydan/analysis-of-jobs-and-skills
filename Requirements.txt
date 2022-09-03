@@ -1,0 +1,17 @@
+streamlit 
+
+pandas 
+
+matplotlib 
+pyplot 
+
+seaborn 
+
+sklearn.utils 
+streamlit_option_menu 
+
+plotly.express 
+numpy 
+plotly.figure_factory 
+chart_studio.plotly 
+plotly.offline 
