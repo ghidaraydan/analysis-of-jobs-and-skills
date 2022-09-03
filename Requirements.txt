@@ -2,10 +2,9 @@
 
 html5lib1
 
-matplotlib
-matplotlib-inline
 
 numpy
+sklearn
 
 pandas
 pandas-profiling=
@@ -14,7 +13,6 @@ plotly
 seaborn
 
 
-sklearn
 
 streamlit
 streamlit-multipage
