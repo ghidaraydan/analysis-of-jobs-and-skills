@@ -5,7 +5,7 @@ import streamlit as st
 
 import pandas as pd 
 
-import seaborn as sns
+
 
 from sklearn.utils import estimator_html_repr
 from streamlit_option_menu import option_menu
