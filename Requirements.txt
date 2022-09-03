@@ -1,12 +1,29 @@
-streamlit 
+html5lib1
+
+matplotlib
+matplotlib-inline
+
+numpy
+
+pandas
+pandas-profiling=
+plotly
+
+seaborn
+
+
+sklearn
+
+streamlit
+streamlit-multipage
+streamlit-option-menu
+streamlit-pandas-profiling
+
+
 
 pandas 
-
-matplotlib 
-pyplot 
 matplotlib
 seaborn 
-matplotlib.pyplot
 sklearn.utils 
 streamlit_option_menu 
 
