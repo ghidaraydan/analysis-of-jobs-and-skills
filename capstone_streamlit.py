@@ -4,8 +4,7 @@
 import streamlit as st
 
 import pandas as pd 
-import matplotlib 
-from matplotlib import pyplot as plt
+
 import seaborn as sns
 
 from sklearn.utils import estimator_html_repr
