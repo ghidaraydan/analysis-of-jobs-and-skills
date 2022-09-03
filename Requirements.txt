@@ -6,7 +6,7 @@ matplotlib
 pyplot 
 matplotlib
 seaborn 
-
+matplotlib.pyplot
 sklearn.utils 
 streamlit_option_menu 
 
