@@ -1,34 +1,18 @@
+html5lib==1.1
+
+matplotlib==3.5.1
 
 
-html5lib1
+numpy==1.22.2
 
+pandas==1.4.1
 
-numpy
-sklearn
+plotly==5.6.0
 
-pandas
-pandas-profiling=
-plotly
+seaborn==0.11.2
 
-seaborn
+sklearn==0.0
 
-
-
-streamlit
-streamlit-multipage
-streamlit-option-menu
-streamlit-pandas-profiling
-
-
-
-pandas 
-matplotlib
-seaborn 
-sklearn.utils 
-streamlit_option_menu 
-
-plotly.express 
-numpy 
-plotly.figure_factory 
-chart_studio.plotly 
-plotly.offline 
+streamlit==1.5.1
+streamlit-multipage==0.0.18
+streamlit-option-menu==0.3.2
